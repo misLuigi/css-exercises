@@ -1,0 +1,20 @@
+.oddnumber#samefontsize {
+   background-color: lightpink;
+   font-family: verdana, DejaVu Sans, sans-serif;
+}
+
+.secondelement#bluecolor {
+    color: blue;
+    font-size: 36px;
+}
+
+.oddnumber#notsamefontsize {
+    background-color: lightpink;
+    font-size: 24px;
+}
+
+.fourthelement#blackcolor {
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
+}
